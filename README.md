@@ -12,9 +12,10 @@ O projeto "Dev Barber" é uma representação virtual da barbearia fictícia, pr
 - CSS
 - SASS (Pré-processador CSS)
 
-## Resultado
+## Resultado : 
 
 <img src="./assets/resultado.jpg" alt="">
 <img src="./assets/resultado2.jpg" alt="">
 <img src="./assets/resultado3.jpg" alt="">
 
+https://devbarberdev.netlify.app/
